@@ -1,0 +1,53 @@
+body {
+	background-color: #23272A;
+}
+
+header h1 {
+	color: white;
+	text-align: center;
+}
+
+.Timer-Wrp {
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	border-radius: 6px;
+	padding: 50px;
+	width: 450px;
+}
+
+.displayTimer {
+	color: white;
+	font-size: 25px;
+}
+
+.startStopBtn {
+	background-color: green;
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;
+	border-radius: 5px;
+	padding: 15px 32px;
+	font-size: 18px;
+	color: white;
+	cursor: pointer;
+}
+
+.resetBtn {
+	background-color: #ff3232;
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;
+	border-radius: 5px;
+	padding: 15px 32px;
+	font-size: 18px;
+	color: white;
+	cursor: pointer;
+}
+
+.ver {
+	color: gray;
+	bottom: 0;
+	position: absolute;
+	font-size: 24px;
+}
